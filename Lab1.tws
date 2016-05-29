@@ -1,0 +1,23 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.1" 
+[CURRENT_PROJECT]
+"Lab1" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\WorkSpace\Lab1\Lab1\Empty.c" 
+"C:\WorkSpace\Lab1\Lab1\mcu_init.c" 
+"C:\WorkSpace\Lab1\Lab1\ncrt0.a30" 
+"C:\WorkSpace\Lab1\Lab1\qsk_led.c" 
+"C:\WorkSpace\Lab1\Lab1\qsk_led.h" 
+"C:\WorkSpace\Lab1\Lab1\sfr62p.h" 
+[WORKSPACE_FILE_STATES]
+"C:\WorkSpace\Lab1\Lab1\Empty.c" 22 29 1114 319 0 3 
+"C:\WorkSpace\Lab1\Lab1\mcu_init.c" 22 29 1136 288 0 5 
+"C:\WorkSpace\Lab1\Lab1\ncrt0.a30" -4 -30 1232 438 1 4 
+"C:\WorkSpace\Lab1\Lab1\qsk_led.c" 0 0 1114 319 0 2 
+"C:\WorkSpace\Lab1\Lab1\qsk_led.h" 110 145 1114 319 0 1 
+"C:\WorkSpace\Lab1\Lab1\sfr62p.h" 88 116 1110 315 0 0 
+[END]
